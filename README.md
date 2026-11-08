@@ -67,6 +67,7 @@ A curated list of OSINT tools and techniques for ethical investigations. Each to
 - [PeekYou](https://peekyou.com/) - Username-based lookup
 - [411](https://www.411.com/) - Directory of phone numbers
 - [Spokeo](https://www.spokeo.com/) - Online identity search
+- [DeepSearch](https://deepsearch.tools/) - Name-based people search; limited free previews, paid reports
 - [That's Them](https://thatsthem.com/) - Reverse people search
 - [Voter Records](https://www.voterrecords.com) - Public voter registration info
 - [TrueCaller](https://www.truecaller.com/) - Phone number lookup
